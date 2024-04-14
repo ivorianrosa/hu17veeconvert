@@ -1,0 +1,29 @@
+{
+  "name": "hu17veeconvert",
+  "version": "1.0.0",
+  "description": "hu17veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivorianrosa/hu17veeconvert.git"
+  },
+  "keywords": [
+    "hu17veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "ivorianrosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivorianrosa/hu17veeconvert/issues"
+  },
+  "homepage": "https://github.com/ivorianrosa/hu17veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
